@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<factura>
+	<id_factura>
+		
+	</id_factura>
+	<fecha_factura>
+		
+	</fecha_factura>
+	<cif_cliente>
+		
+	</cif_cliente>
+	<cliente>
+		
+	</cliente>
+	<importe>
+		
+	</importe>
+	<importe_mas_iva>
+		
+	</importe_mas_iva>
+	<moneda>
+		
+	</moneda>
+	<fecha_cobro>
+		
+	</fecha_cobro>
+	<direc_facturacion>
+		
+	</direc_facturacion>
+	<telf_cliente>
+		
+	</telf_cliente>
+	<estado_factura>
+		
+	</estado_factura>
+</factura>

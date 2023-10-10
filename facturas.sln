@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "facturas", "facturas\", "{8C9C0FFE-F2AD-47D8-9A7C-99D4310C1950}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55543"
+		Debug.AspNetCompiler.PhysicalPath = "facturas\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55543\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55543"
+		Release.AspNetCompiler.PhysicalPath = "facturas\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55543\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55543"
+		SlnRelativePath = "facturas\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9C0FFE-F2AD-47D8-9A7C-99D4310C1950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9C0FFE-F2AD-47D8-9A7C-99D4310C1950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A4CECD2-4917-4FC1-9D60-BDE3A2ACE838}
+	EndGlobalSection
+EndGlobal
